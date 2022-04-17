@@ -1,0 +1,9 @@
+npm init -y ->> initialize package maneger
+npm install amqplib
+node send.js ->> run script
+
+listing queues:
+rabbitmqctl list_queues
+
+localhost:
+http://localhost:15672/#/queues
