@@ -1,4 +1,5 @@
-Work Queues
+## Work Queues
+### Distributing tasks among workers
 
 In this project we'll create a Work Queue that will be used to distribute time-consuming tasks among multiple workers.
 
