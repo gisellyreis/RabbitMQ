@@ -1,4 +1,5 @@
-Hello World
+## Hello World
+### The simplest thing that does something
 
 In this part of the tutorial we'll write two small programs in Javascript; a producer that sends a single message, and a consumer that receives messages and prints them out. 
 
